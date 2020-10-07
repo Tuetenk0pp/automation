@@ -11,7 +11,7 @@ sudo apt-get install snapd -yy
 #add ppa's
 
 #nextcloud client
-sudo add-apt-repository ppa:nextcloud-devs/client -no-update
+sudo apt-add-repository ppa:nextcloud-devs/client -no-update
 
 #atom text editor
 wget -qO - https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add -
