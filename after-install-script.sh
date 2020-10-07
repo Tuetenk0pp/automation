@@ -25,7 +25,7 @@ sudo apt-add-repository https://cli.github.com/packages --no-update
 sudo apt-get update
 sudo apt-get install firefox nautilus-nextcloud atom thunderbird telegram-desktop \
 gh steam grub-customizer gnome-tweaks libreoffice-calc libreoffice-writer libreoffice-gnome \
-libreoffice-impress libreoffice-math -yy
+libreoffice-impress libreoffice-math libreoffice-l10n-de -yy
 
 #install obs: uncommend if desired
 #sudo apt install ffmpeg
