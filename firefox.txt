@@ -1,0 +1,12 @@
+I recommend that you install the following firefox extentions
+  - Adblock Plus (https://addons.mozilla.org/de/firefox/addon/adblock-plus/)
+  - GNOME Shell Integration (https://extensions.gnome.org/)
+  - KeepassXC-Browser (https://addons.mozilla.org/de/firefox/addon/keepassxc-browser/)
+
+I also recommend that you install this theme for firefox
+  - Pop!_OS Dark (https://addons.mozilla.org/de/firefox/addon/pop-dark-teal/)
+
+And while your at it, why not install these gnome-extensions?
+  - User Themes (https://extensions.gnome.org/extension/19/user-themes/)
+  - Dash to Dock (https://extensions.gnome.org/extension/307/dash-to-dock/)
+  - feel free to browse for more
