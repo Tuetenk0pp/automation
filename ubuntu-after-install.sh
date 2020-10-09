@@ -47,6 +47,10 @@ sudo snap install discord
 
 #theming
 
+#apply wallpaper
+cp ./automation/wallpaper.png /usr/share/backgrounds/Tuetenk0pp-automation-wallpaper.png
+gsettings set org.gnome.desktop.background picture-uri file:////usr/share/backgrounds/Tuetenk0pp-automation-wallpaper.png
+
 #install and apply grub theme
 git clone https://github.com/vinceliuice/grub2-themes.git
 cd grub2-themes/
@@ -62,6 +66,7 @@ firefox
 read -p "Are you done? Press [ENTER] to continue"
 
 #configure gnome-extensions
+gnome-extensions disable ubuntu-dock@ubuntu.com
 gnome-extensions enable dash-to-dock@micxgx.gmail.com user-theme@gnome-shell-extensions.gcampax.github.com
 gnome-extensions prefs dash-to-dock@micxgx.gmail.com
 read -p "Are you done? Press [ENTER] to continue"

@@ -1,7 +1,7 @@
 I now have a few recommendations:
 
   - open the Nextcloud application and log in to your account
-  - open gamehub and set it up
+  - open steam, gamehub and set it up
   - do so with discord and telegram
 
 Thanks for using this script!
