@@ -9,4 +9,4 @@ I also recommend that you install this theme for firefox
 And while your at it, why not install these gnome-extensions?
   - User Themes (https://extensions.gnome.org/extension/19/user-themes/)
   - Dash to Dock (https://extensions.gnome.org/extension/307/dash-to-dock/)
-  - feel free to browse for more
+  - browse for more
