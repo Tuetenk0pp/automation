@@ -41,6 +41,7 @@ sudo apt-get install firefox nautilus-nextcloud atom telegram-desktop steam gnom
 #sudo apt-get install gh -y #github cli
 #sudo apt-get install libreoffice-calc libreoffice-writer libreoffice-gnome libreoffice-impress libreoffice-math libreoffice-l10n-de -y #office
 sudo apt-get install texlive texlive-lang-german texlive-latex-extra cm-super -y #LateX
+sudo apt-get install gramps -y
 
 #install obs: uncommend if desired
 #sudo apt-get install ffmpeg -y
